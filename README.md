@@ -1,5 +1,3 @@
-# Untitled
-
 ## FRI-LOG
 
 1. About FRI-LOG
